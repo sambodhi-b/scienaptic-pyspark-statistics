@@ -11,8 +11,10 @@ export SPARK_HOME="$(python3 -c 'from distutils.sysconfig import get_python_lib;
 export PYSPARK_PYTHON='python3'
 
 # Setting PySpark to run in Jupyter Notebook
-export PYSPARK_DRIVER_PYTHON='jupyter'
-export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
+# export PYSPARK_DRIVER_PYTHON='jupyter'
+# export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
 
-pyspark
+# pyspark
+
+jupyter notebook
 
