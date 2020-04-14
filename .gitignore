@@ -109,7 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-local_spark/venv/
+local_spark_venv/
 
 # Spyder project settings
 .spyderproject
