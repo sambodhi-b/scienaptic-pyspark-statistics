@@ -131,3 +131,6 @@ dmypy.json
 
 # Vim Swap Files
 **/*.swp
+
+# Data Directory
+data/
